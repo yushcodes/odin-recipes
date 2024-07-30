@@ -1,0 +1,15 @@
+/* Styles */
+
+* {
+    background-color: rgb(253, 242, 189);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
